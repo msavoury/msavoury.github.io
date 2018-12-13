@@ -10,7 +10,7 @@ A technical consultant with 10+ years of crafting software solutions. High level
 </p>
 
 <!--
-<p>Enjoy learning about the domain and helping businesses tackle complex problems with innovative software solutions.</p>
+  <p>Enjoy learning about the domain and helping businesses tackle complex problems with innovative software solutions.</p>
 -->
 
 <h2>Core Competencies</h2>
