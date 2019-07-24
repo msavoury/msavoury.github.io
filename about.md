@@ -13,7 +13,7 @@ A technical consultant with 10+ years of crafting software solutions. High level
 <h2>Core Competencies</h2>
 
 <b>Application Development:</b> Native mobile application development and cross platform HTML5 development<br />
-<b>System Integration:</b> Integrating systems such as payment processors, web APIs, etc.
+<b>System Integration:</b> Integrating systems such as payment processors, web APIs, etc. <br />
 <b>Application Architecture</b> Designing systems built for resiliency and scalability<br />
 
 <!--
