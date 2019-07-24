@@ -6,19 +6,15 @@ layout: page
 
 <p>
 A technical consultant with 10+ years of crafting software solutions. High level technology leader, with a proven track record in implementing cutting-edge technologies and innovations for the web, mobile and cloud computing.
-
 </p>
 
-<!--
-  <p>Enjoy learning about the domain and helping businesses tackle complex problems with innovative software solutions.</p>
--->
+<p>I enjoy learning about the domain and helping businesses tackle complex problems with innovative software solutions.</p>
 
 <h2>Core Competencies</h2>
 
 <b>Application Development:</b> Native mobile application development and cross platform HTML5 development<br />
-<b>System Integration:</b> Native mobile application development and cross platform HTML5 development<br />
-<b>Data Migration:</b> Complex product and systems integrations with external suppliers and platforms. Including payment gateways, CRMs and shipping carriers.<br />
-<b>SEO Design and usability:</b> jfdkajf jfkafj kjfaoijfkafj ioafj jfak fafjstuff goes eehre fkajdfadfafd <br />
+<b>System Integration:</b> Integrating systems such as payment processors, web APIs, etc.
+<b>Application Architecture</b> Designing systems built for resiliency and scalability<br />
 
 <!--
 <ul class="skill-list">
