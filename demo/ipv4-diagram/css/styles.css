@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+ }
+body {
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-top:20px;
+}
+h1 {
+    text-align:center;
+}
+#datagram {
+    display:grid;
+    grid-template-rows: 7;
+    grid-template-columns: 32;
+    width: 70%;
+    margin:auto;
+    border-radius: 5px;
+}
+#datagram * {
+    border: 1px solid black;
+    min-height: 60px;
+    text-align: center;
+}
+
+.version {
+    grid-row:1;
+    grid-column: 1/5;
+}
+.header-length {
+    grid-row:1;
+    grid-column: 5/9;
+}
+.type-of-service {
+    grid-row:1;
+    grid-column: 9/14;
+}
+.datagram-length {
+    grid-row: 1;
+    grid-column:14/33;
+}
+.sixteen-bit-id{
+    grid-row:2;
+    grid-column:1/15;
+}
+.flags {
+    grid-row:2;
+    grid-column:15/19;
+}
+.offset {
+    grid-row:2;
+    grid-column:19/33;
+}
+.ttl {
+    grid-row:3;
+    grid-column:1/9;
+}
+.upper-layer{
+    grid-row:3;
+    grid-column:9/16;
+}
+.header-checksum {
+    grid-row:3;
+    grid-column:16/33;
+}
+.source-address {
+    grid-row: 4;
+    grid-column: 1 / 33;
+}
+.dest-address{
+    grid-row: 5;
+    grid-column: 1/ 33;
+}
+.options {
+    grid-row: 6;
+    grid-column: 1/ 33;
+}
+.data {
+    grid-row: 7;
+    grid-column: 1/ 33;
+}
