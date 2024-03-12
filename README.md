@@ -28,7 +28,7 @@
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
 - No JS. :sunglasses:
 
-## Setup
+## Basic Setup
 
 0. :star: to the project. :metal:
 2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
