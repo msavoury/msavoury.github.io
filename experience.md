@@ -53,10 +53,6 @@ layout: page
 **Bachelor of Science in Computer Engineering**
 *Graduated 2010*
 
-### American Senior High School
-**High School Diploma** | Miami, FL
-*Graduated 2004 - Salutatorian*
-
 ---
 
 ## Technical Expertise
