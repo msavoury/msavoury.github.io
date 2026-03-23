@@ -1,9 +1,9 @@
 # main text of home
 name: Marcos Savoury
-bio: Crafting solutions with software 
+bio: Software Engineer 
 
 # twitter summary info
-description: A blog about technology 
+description: Software engineer sharing insights on distributed systems, software engineering, and continuous learning 
 
 # if it's an external image, update below for true
 # better with square images
@@ -67,11 +67,11 @@ authors:
         picture: assets/images/james.jpg
         twitter: jamesfoster
 
-skills: [java, docker, php, scala, 
-         js, ruby, aws, spring,
-         mysql, postgres, redis, git,
-         tomcat, play, python, rails,
-         mongo, html5, css, angular
+skills: [java, kotlin, python, ruby,
+         scala, javascript, aws, docker,
+         spring, rails, git, mysql,
+         postgres, redis, mongodb, kafka,
+         distributed systems, microservices
         ]
 skillcolors: ['#325D88','#8E8C84','#93C54B','#29ABE0','#F47C3C','#d9534f']
 

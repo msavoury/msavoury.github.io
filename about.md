@@ -5,16 +5,17 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-A technical consultant with 10+ years of crafting software solutions. High level technology leader, with a proven track record in implementing cutting-edge technologies and innovations for the web, mobile and cloud computing.
+Senior Software Engineer at Block with 14+ years of experience crafting scalable software solutions. Proven track record in distributed systems, microservices architecture, and cloud computing across fintech, healthcare, and enterprise domains.
 </p>
 
-<p>I enjoy learning about the domain and helping businesses tackle complex problems with innovative software solutions.</p>
+<p>I'm passionate about continuous learning, building resilient systems, and solving complex technical challenges. I believe in writing clean, maintainable code and leading through collaboration and knowledge sharing.</p>
 
 <h2>Core Competencies</h2>
 
-<b>Application Development:</b> Native mobile application development and cross platform HTML5 development<br />
-<b>System Integration:</b> Integrating systems such as payment processors, web APIs, etc. <br />
-<b>Application Architecture</b> Designing systems built for resiliency and scalability<br />
+<b>Distributed Systems:</b> Building and scaling microservices architectures with high availability<br />
+<b>Backend Development:</b> Java, Kotlin, Python, Ruby, and Scala for enterprise applications<br />
+<b>Cloud & Infrastructure:</b> AWS, Docker, Kubernetes, and cloud-native solutions<br />
+<b>System Architecture:</b> Designing resilient, scalable systems for fintech and enterprise domains<br />
 
 <!--
 <ul class="skill-list">
