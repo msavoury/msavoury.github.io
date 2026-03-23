@@ -116,23 +116,6 @@ Senior Software Engineer at Block with 14+ years of experience crafting scalable
 }
 </style>
 
-<h2 style="text-align:center">Selected Technical Skills</h2>
-<div class="boxes">
-{% for a in site.skills %}
-{% assign skillsize = site.skillcolors | size %}
-{% assign c_index =  forloop.index | modulo: skillsize  %}
-<div class="square" style="background-color:{{ site.skillcolors[c_index] }}" >
-    <div class="content">
-        <div class="table">
-            <div class="table-cell numbers" >
-                    {{ a }} 
-            </div>
-        </div>
-    </div>
-</div>
-{% endfor %}
-<div style="clear:both"> </div>
-</div>
 
 <!--
 <h2>Projects</h2>
