@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Senior Software Engineer at Block with 14+ years of experience crafting scalable software solutions. Proven track record in distributed systems, microservices architecture, and cloud computing across fintech, healthcare, and enterprise domains.
+Staff Software Engineer at Dropbox with 14+ years of experience crafting scalable software solutions. Proven track record in distributed systems, microservices architecture, and cloud computing across fintech, healthcare, and enterprise domains.
 </p>
 
 <p>I'm passionate about continuous learning, building resilient systems, and solving complex technical challenges. I believe in writing clean, maintainable code and leading through collaboration and knowledge sharing.</p>
