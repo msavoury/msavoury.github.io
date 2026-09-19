@@ -5,9 +5,17 @@ layout: page
 
 ## Professional Experience
 
+### Dropbox
+**Staff Software Engineer** | Remote
+*2026 - Present*
+
+- Building scalable distributed systems for fintech applications
+- Working with Java, Kotlin, and microservices architecture
+- Participating in on-call rotation for 24/7 production support
+
 ### Block (formerly Square)
 **Senior Software Engineer** | Remote
-*2021 - Present*
+*2021 - May 2026*
 
 - Building scalable distributed systems for fintech applications
 - Working with Java, Kotlin, and microservices architecture
