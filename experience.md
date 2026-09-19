@@ -9,9 +9,7 @@ layout: page
 **Staff Software Engineer** | Remote
 *2026 - Present*
 
-- Building scalable distributed systems for fintech applications
-- Working with Java, Kotlin, and microservices architecture
-- Participating in on-call rotation for 24/7 production support
+- Working across Billing & Payments teams
 
 ### Block (formerly Square)
 **Senior Software Engineer** | Remote
